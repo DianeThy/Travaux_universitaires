@@ -1,6 +1,6 @@
 # Travaux de Master
 
-Ce repo contient les travaux réalisés dans le cadre de l'évaluation des enseignements pendant mon Master **Econométrie et statistiques** à l'Université de Nantes. 
+Ce repository contient tous les travaux réalisés au cours du [Master **Econométrie et statistiques**](https://iae.univ-nantes.fr/nos-formations/offre-de-formation/master-econometrie-statistiques) que j'ai suivi à l'Université de Nantes entre 2019 et 2021.
 
 La grande majorité des analyses suivent le schéma suivant, le but étant de répondre à une problématique précise :
 + Introduction
